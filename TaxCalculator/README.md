@@ -4,20 +4,19 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(July 6, 2018)
 
 ### Student Name:  
-(First and Last Name)
+(Isaiah Walker Shelby)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+( During this project I edited the maximum and minimum tax brackets inside if else statements. I also learned to use the getElementId)
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+(https://iw16b.github.io/walkershelby_lesson5/)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (I learned how to utilize the getElementById method for the clear button)
+2. (I learned about nested loops and if else)
+3. (Modified HTML and onclick events)
 
